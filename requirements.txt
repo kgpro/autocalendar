@@ -1,7 +1,31 @@
+# Core Packages
 fastapi
 uvicorn
-streamlit
-pydantic
 python-dotenv
-pytz
+google-generativeai
+
+# Google APIs
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
 google-api-python-client
+
+# Data Validation & Models
+pydantic
+
+# Date/Time Handling
+python-dateutil
+pytz
+
+# HTTP & Utilities
+requests
+httpx
+json5
+astunparse
+
+# CORS Middleware
+starlette
+
+# Optional Development Tools
+pytest
+pytest-asyncio
