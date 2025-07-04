@@ -1,0 +1,7 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+streamlit==1.25.0
+pydantic==2.1.1
+python-dotenv==1.0.0
+pytz==2023.3
+google-api-python-client==2.92.0
