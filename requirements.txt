@@ -3,5 +3,5 @@ uvicorn
 streamlit
 pydantic
 python-dotenv
-pytz==2023.3
+pytz
 google-api-python-client
