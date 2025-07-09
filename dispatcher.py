@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 import os
 load_dotenv()
 # Configuration - replace these with your actual values
-CREDENTIAL_FILE = "credentials.json"
+CREDENTIAL_FILE = os.getenv('FILE_PATH')
 SERVICE_EMAIL = os.getenv('SERVICE_MAIL_ID')
 CALENDAR_ID = os.getenv('GMAIL')
 
